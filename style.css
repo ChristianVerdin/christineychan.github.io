@@ -1,0 +1,21 @@
+body {
+	color: rgb(255, 255, 255);
+	font-family: 'Arimo', sans-serif;
+	background-color: rgb(0,0,0);
+	background: url(me.jpg) black center top;
+	
+}
+
+div {
+  color:#ffffff;
+}
+div .fa {
+  color:#ffffff;
+  font-size: 50px;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	right:0;
+}
